@@ -33,7 +33,7 @@ The Raffle will wait for players
 
 Draft a winner
 <br>
-<img src="/docs/WaitingPlayers.png" alt="DraftWinner" width="300"/>
+<img src="/docs/DraftWinner.png" alt="DraftWinner" width="300"/>
 
 Winner receives the prize!
 <br>
