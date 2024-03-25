@@ -4,11 +4,11 @@ Welcome to the Raffle Smart contract Project! This project is a blockchain-based
 
 ## Technologies
 
--   Solidity and foundry for developing, testing and deploying the smart contract.
+-   **Solidity** and **foundry** for developing, testing and deploying the smart contract.
     Look at the [smart contract repo](https://github.com/JuanDuz/Raffle-smart-contract).
--   Chainlink for oracle randomness and automation of the contract calls
--   React for the frontend
--   Ethers for interacting with the User account and the contract
+-   **Chainlink VRF** and **Automation** for oracle randomness and automation of the contract calls
+-   **React** for the frontend
+-   **Ethers** for interacting with the User account and the contract
 
 ## Features
 
