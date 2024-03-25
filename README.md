@@ -2,10 +2,12 @@
 
 Welcome to the Raffle Smart contract Project! This project is a blockchain-based raffle system that allows participants to enter a raffle and picks a winner in a decentralized and transparent way. Built with Ethereum smart contracts and a React frontend, the raffle system is designed to be fair, secure, and fun.
 
+This is the client, you may also like to see the:
+#### [Smart contract repository](https://github.com/JuanDuz/Raffle-smart-contract)
+
 ## Technologies
 
 -   **Solidity** and **foundry** for developing, testing and deploying the smart contract.
-    Look at the [smart contract repo](https://github.com/JuanDuz/Raffle-smart-contract).
 -   **Chainlink VRF** and **Automation** for oracle randomness and automation of the contract calls
 -   **React** for the frontend
 -   **Ethers** for interacting with the User account and the contract
