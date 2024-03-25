@@ -17,6 +17,7 @@ Welcome to the Raffle Smart contract Project! This project is a blockchain-based
 -   **Easy to Participate**: A user-friendly web interface that allows participants to enter the raffle with just a few clicks.
 -   **Random Color Assignment**: Each participant receives a random color for easy identification on the frontend.
 -   **Only testnet allowed**: If the user uses a chain different than sepolia testnet the app will alert the user and not let him participate.
+-   **Event logging**: The front end is listening for the emission of the smart contract events in order to log the winners and pariticpants joining.
 
 Enter the raffle with the minimum fee
 <br>
